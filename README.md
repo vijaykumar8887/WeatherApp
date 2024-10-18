@@ -20,3 +20,4 @@ src/
 |   |-- storage.js        // Manage persistent storage (local storage for now)  
 |-- App.jsx
 |-- index.css
+# WeatherApp
